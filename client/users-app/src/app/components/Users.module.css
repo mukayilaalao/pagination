@@ -1,0 +1,11 @@
+.button {
+    background-color: lightblue;
+    width: 65px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.ba {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
